@@ -10,10 +10,9 @@
 #### 2. Modify the existing *Block* data class to store *Record* data
 ![modify_record](https://user-images.githubusercontent.com/95944553/166164645-4c8bc2ec-ad01-46b2-a148-2278b63c8d91.png)
 #### 3. Add relevant user inputs to the Streamlit interface.
+![relevant_user_inputs](https://user-images.githubusercontent.com/95944553/166164731-ad23580a-d971-4f34-a9e8-b298f5435ad3.png)
 #### 4a. Test the PyChain Ledger by storing *Records*
-
 ![PyChain](https://user-images.githubusercontent.com/95944553/166163895-2f9295ef-81b0-44e0-95ac-7b4bdbb65c40.png)
-
 #### 4b. Test the validity of the PyChain Ledger
 
 
