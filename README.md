@@ -6,15 +6,15 @@
 
 ## **Tasks to be performed for the project**
 #### 1. Create a new data class name *Record*
-![class_Record](/Users/steveteeters/UMN/Homework/18_Blockchain/images.png/class_Record.png.png "class_record")
-
-
-
-
-
-
 #### 2. Modify the existing *Block* data class to store *Record* data
 #### 3. Add relevant user inputs to the Streamlit interface.
 #### 4. Test the PyChain Ledger by storing *Records*
+
+
+# See files in Images file for screenshots of Streamlit PyChain
+
+# See pychain.py for coding
+
+
 
 
