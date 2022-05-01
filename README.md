@@ -14,7 +14,7 @@
 #### 4a. Test the PyChain Ledger by storing *Records*
 ![PyChain](https://user-images.githubusercontent.com/95944553/166163895-2f9295ef-81b0-44e0-95ac-7b4bdbb65c40.png)
 #### 4b. Test the validity of the PyChain Ledger
-
+![PyChain_Validated](https://user-images.githubusercontent.com/95944553/166164764-c4244f6b-2cef-4865-adac-9a346c8c58cb.png)
 
 
 
