@@ -6,6 +6,7 @@
 
 ## **Tasks to be performed for the project**
 #### 1. Create a new data class name *Record*
+![data_class_record](https://user-images.githubusercontent.com/95944553/166164678-fa62156e-5e61-4e20-9551-ace98b3ebacc.png)
 #### 2. Modify the existing *Block* data class to store *Record* data
 ![modify_record](https://user-images.githubusercontent.com/95944553/166164645-4c8bc2ec-ad01-46b2-a148-2278b63c8d91.png)
 #### 3. Add relevant user inputs to the Streamlit interface.
