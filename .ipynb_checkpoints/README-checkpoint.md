@@ -6,7 +6,7 @@
 
 ## **Tasks to be performed for the project**
 #### 1. Create a new data class name *Record*
-![class_Record](/Users/steveteeters/UMN/Homework/18_Blockchain/images.png/class_Record.png.png "class_record")
+![class_Record](UMN/Homework/18_Blockchain/images.png/class_Record.png.png "class_record")
 
 
 
